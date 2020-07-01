@@ -27,4 +27,10 @@ public:
 };
 ```
 
-Note: _long_ has been used at some places because although it is given that the required area will be in the range of _int_, yet the coordinates can have greater values.
+Note: _long_ has been used at some places because although it is given that the required area will be in the range of _int_, yet the coordinates can have greater values. <br> <br>
+
+**Complexity Analysis**
+
+<ul> <li>Time Complexity: O(1)
+<li>Space Complexity: O(1)
+	</ul>
